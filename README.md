@@ -1,4 +1,4 @@
-# Assignment-4-Group-4
+# IMDb Data Analysis - Group Project
 ETC5513 Collaborative & Reproducible Practices - 
 A collaborative project on IMDB Data from Kaggle by William, Xue, Rahul, and Aryan.
 
